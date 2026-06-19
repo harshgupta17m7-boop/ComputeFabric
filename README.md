@@ -32,7 +32,7 @@ To guarantee execution integrity on anonymous consumer devices, the Orchestrator
 
 Why rely on decentralized consensus over traditional Cloud architectures?
 
-| Feature | Legacy Cloud (AWS/GCP) | ComputeFabric |
+| Feature | Legacy Cloud | ComputeFabric |
 | :--- | :--- | :--- |
 | **Trust Model** | Brand / Corporate Trust | **Zero-Trust Cryptography** |
 | **Elasticity** | Constrained by physical data centers | **Infinite** (Global latent hardware) |
