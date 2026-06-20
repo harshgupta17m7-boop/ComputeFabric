@@ -2,7 +2,7 @@
 
 > **Trustless Distributed Compute Orchestration Layer**
 
-ComputeFabric is an enterprise-grade orchestration layer that aggregates untrusted, heterogeneous consumer hardware into a unified, cryptographically secure compute swarm. By shifting trust from centralized providers (like AWS) to **Zero-Trust Mathematics**, the network scales infinitely while reducing compute costs by up to 90%.
+ComputeFabric is an enterprise-grade orchestration layer that aggregates untrusted, heterogeneous consumer hardware into a unified, cryptographically secure compute swarm. By shifting trust from centralized providers (like AWS) to **Zero-Trust Mathematics**, the network scales infinitely while reducing compute costs by up to 70%.
 
 ---
 
