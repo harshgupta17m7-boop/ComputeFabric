@@ -102,7 +102,7 @@ npm run dev
 | :---: | :--- | :---: | :--- |
 | **V1** | **Map-Reduce Engine** | ✅ Active | Deterministic data processing and scientific simulations using exact Merkle Root matching. |
 | **V2** | **Federated AI Training** | 🚧 Coming Soon | DiLoCo gradient averaging across swarm nodes, utilizing validation-based accuracy testing to slash malicious updates. |
-| **V3** | **Hardware Enclaves** | 📅 Planned | Migrating execution from Node VMs to Firecracker microVMs and WebAssembly (WASM) for enterprise-grade RCE protection. |
+| **V3** | **Hardware Enclaves** |  Planned | Migrating execution from Node VMs to Firecracker microVMs and WebAssembly (WASM) for enterprise-grade RCE protection. |
 
 ---
 
